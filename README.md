@@ -43,17 +43,6 @@ vectorstore/db_faiss # FAISS vector database (embeddings)
 - `faiss-cpu`
 - `sentence-transformers`
 
-## Launching the Project
-
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Launch the application:
-   ```bash
-   streamlit run medibot.py
-   ```
-
 ## Security and Privacy
 - The chatbot only provides responses based on the indexed document context.
 - If a response is not found in the database, the bot explicitly indicates this.
