@@ -2,7 +2,7 @@
 
 ## Overview
 
-Medical-Chatbot is a Streamlit-based web application that allows users to interact with a medical chatbot powered by an advanced language model (LLM) and a vector knowledge base. The goal is to provide accurate and contextualized responses based on indexed medical documentation.
+Medical-Chatbot is a Streamlit-based web application that allows users to interact with a medical chatbot powered by an advanced language model (LLM) and a vector knowledge base. The goal is to provide accurate responses based on indexed medical documentation.
 
 ## Key Features
 
